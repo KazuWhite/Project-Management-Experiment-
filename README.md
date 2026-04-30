@@ -20,9 +20,9 @@
 
 | 姓名 | 角色 | Git 用户名 | 主要职责 |
 |------|------|------|------|
-| 赖瑞林 | 项目经理 | lairuiiin | 统筹进度、启动说明、README、总结报告 |
-| 罗成瑞鑫 | 计划负责人 | luochengruixin | 仓库初始化、WBS、进度计划、协助冲突解决 |
-| 李卓卿 | 配置管理员 | lizhuoqing | 配置管理文档、分支合并、分支冲突解决 |
+| 赖瑞林 | 项目经理 | Andy-lucky2005（lairuilin） | 统筹进度、启动说明、README、总结报告 |
+| 罗成瑞鑫 | 计划负责人 | KazuWhite（luochengruixin） | 仓库初始化、WBS、进度计划、协助冲突解决 |
+| 李卓卿 | 配置管理员 | lizhuoqing123（lizhuoqing） | 配置管理文档、分支合并、分支冲突解决 |
 
 ---
 
